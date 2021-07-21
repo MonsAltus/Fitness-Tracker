@@ -24,11 +24,9 @@ This site allows your you create new workouts, and add individual resistance or 
 
 ## Usage:
 Image:<br>
-![Image of app functionality](./assets/preview1.png)<br>
+![Adding a resistance exercise to a workout.](./assets/preview1.png)<br>
 Image:<br>
-![Image of app functionality](./assets/preview2.png)<br>
-Image:<br>
-![Image of app functionality](./assets/preview3.png)<br>
+![Viewing workout history in Dashboard.](./assets/preview2.png)<br>
 
 ## Tests:
 No tests are currently included.
