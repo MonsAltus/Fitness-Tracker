@@ -38,7 +38,14 @@ router.post('/workouts', (req,res) => {
 
 // Get workouts in range
 router.get('/workouts/range', (req,res) => {
-    Workout.find()
+    Workout.aggregate([
+        {$addFields: {
+            totalDuration: {
+                $sum: '$exercises.duration'
+            }
+        }
+    }])
+    // Workout.find()
     .sort({day: -1})
     .limit(7)
     .then(function(data){
