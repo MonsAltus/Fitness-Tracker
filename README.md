@@ -23,6 +23,7 @@ This site allows your you create new workouts, and add individual resistance or 
 ## Installation:
 
 ## Usage:
+[Link to deployed app on Heroku.](https://rocky-thicket-52791.herokuapp.com/) <br>
 Image:<br>
 ![Adding a resistance exercise to a workout.](./assets/preview1.png)<br>
 Image:<br>
