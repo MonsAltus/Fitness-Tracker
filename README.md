@@ -4,7 +4,7 @@
 ![license-badge](https://shields.io/github/license/MonsAltus/Fitness-Tracker)
 
 ## Description:
-This site allows your you create new workouts, and add individual resistance or cardio exercises to those workouts. You can view your workout history on the dashboard.
+This site allows you to create new workouts, and add individual resistance or cardio exercises to those workouts. You can view your workout history on the dashboard.
 
 ## Table of Contents:
 [User Story](#User-Story)<br>
